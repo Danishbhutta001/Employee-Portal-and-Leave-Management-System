@@ -1,0 +1,24 @@
+
+# Environment / secrets
+.env
+
+# Database
+db.sqlite3
+
+# Virtual environments
+EmployeeEnvironment/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Django
+*.log
+media/
+staticfiles/
